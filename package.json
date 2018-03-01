@@ -1,0 +1,16 @@
+{
+  "name": "bookstore",
+  "version": "0.1.0",
+  "description": "simple bookstore app",
+  "main": "app.js",
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "mongoose": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kobal",
+  "license": "ISC"
+}
